@@ -1,13 +1,6 @@
 # 🧑‍🍳 Recipe Search Website  
 ### Built with HTML, CSS, JavaScript & Dummy JSON API  
-**Created by [CodingWithSudhir](https://www.youtube.com/@CodingWithSudhir)**  
-
----
-
-## 🌐 Live Demo  
-👉 **[View Project Here](https://sudhirkumar85.github.io/recipe-search-project-codingwithsudhir/)**  
-
-🎥 **[Watch Full YouTube Tutorial](https://youtu.be/MZ5sn8F1gvs)**  
+* 
 
 ---
 
@@ -61,18 +54,6 @@ Using AI tools like GitHub Copilot
 
 📹 Watch Full Tutorial
 
-🎥 Build Recipe Website using HTML, CSS, JS & Dummy JSON API | 28-Min Complete Project
+🎥 Build Recipe Website using HTML, CSS, JS & Dummy JSON API 
 
-👉 Subscribe to CodingWithSudhir
- for more web development tutorials!
-🧑‍💻 Author
 
-Sudhir Kumar
-
-🔗 YouTube – CodingWithSudhir
-
-💼 GitHub – sudhirkumar85
-
-⭐ Support
-
-If you found this project helpful, don’t forget to ⭐ star the repo and subscribe to my YouTube channel for more tutorials!
